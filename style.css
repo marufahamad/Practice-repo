@@ -37,3 +37,30 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.exp-area{
+    box-shadow: 10px 10px 10px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+#body-web-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#full-stack-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+.exp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    text-align: center;
+}
